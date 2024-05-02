@@ -1,4 +1,5 @@
 # This fork is just for my own work through the book. 
+Fork of https://github.com/aloctavodia/BAP3  
 
 
 # Bayesian Analysis with Python (Third Edition)
