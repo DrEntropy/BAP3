@@ -1,3 +1,6 @@
+# This fork is just for my own work through the book. 
+
+
 # Bayesian Analysis with Python (Third Edition)
 
 <p align="center">
